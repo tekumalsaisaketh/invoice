@@ -1,0 +1,6 @@
+{
+  "languages":["English","Hindi","Telugu","Tamil"],
+  "Currency":["Dollar","Pound","Rupee","Euro"],
+  "InvoiceDue":["After 30 days","After 15 days","After 10 days","After 45 days"],
+  "Address":{"colony":"krishna","city":"Gajwel","country":"India","zip":"502278"}
+}
